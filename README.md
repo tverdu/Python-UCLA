@@ -1,2 +1,2 @@
 # UCLA
-UCLA Data Science Project
+UCLA Data Science Projects
